@@ -1,7 +1,7 @@
 """
 README.md
 
-# 🧠 Deep Neural Network for Multiclass Classification (Softmax + ReLU)
+# 🧠 Deep Neural Network for Multiclass Classification (Softmax + ReLU + sigmoid)
 
 This project demonstrates a deep neural network implemented **from scratch using NumPy**, capable of **multiclass classification** using **softmax activation** in the output layer. The model is trained using manually-coded forward and backward propagation, gradient descent, and includes L2 regularization.
 
