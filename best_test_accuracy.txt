@@ -1,0 +1,1 @@
+Best Test Accuracy: 82.23% at Epoch 0
